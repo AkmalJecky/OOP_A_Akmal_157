@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Codelab 1.iml" filepath="$PROJECT_DIR$/Codelab 1.iml" />
-=======
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Codelab 1.iml" filepath="$PROJECT_DIR$/Codelab 1.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/task1.iml" filepath="$PROJECT_DIR$/task1.iml" />
->>>>>>> 46cc99b (2)
->>>>>>> c59150a (20)
+      <module fileurl="file://$PROJECT_DIR$/src/CODELAB/CODELAB.iml" filepath="$PROJECT_DIR$/src/CODELAB/CODELAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_AKMAL.iml" filepath="$PROJECT_DIR$/.idea/OOP_AKMAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/TASK/TASK.iml" filepath="$PROJECT_DIR$/src/TASK/TASK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/CODELAB/modul3/modul3/modul3.iml" filepath="$PROJECT_DIR$/src/CODELAB/modul3/modul3/modul3.iml" />
     </modules>
   </component>
 </project>
